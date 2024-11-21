@@ -7,6 +7,6 @@ This project performs an analysis to search for an ideal night sky viewing locat
 ### Run this application
 Open the link below, wait a minute or two, and it will launch an interactive Jupyter Notebook containing my code. Follow the instructions in the notebook to set up a Google Earth Engine instance, then run all the cells (click Run at the top--> Run All Cells) and an interactive map application will appear.
 
-https://mybinder.org/v2/gh/Briol009/StargazingAnalysis/main?labpath=MVP1.ipynb
+https://mybinder.org/v2/gh/Briol009/StargazingAnalysis/main?labpath=StargazingAnalysis.ipynb
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Briol009/StargazingAnalysis/main?labpath=MVP1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Briol009/StargazingAnalysis/main?labpath=StargazingAnalysis.ipynb)
